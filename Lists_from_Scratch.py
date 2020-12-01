@@ -1,0 +1,7 @@
+Sherry = list()
+Sherry.append('book')
+Sherry.append('paint')
+Sherry.append('drawing')
+Sherry.append('Snacks')
+Sherry.append('heytea')
+print(Sherry)
