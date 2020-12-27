@@ -1,0 +1,17 @@
+<recipe name="kimchi fried rice" prep_time=" 15 mins" cook_time="8 mins"
+  <title>Yummy Kimchi Dish</title>
+  <ingredient amount="3" unit="cup">Rice</ingredient>
+  <ingredient amount="2" unit="cup">Kimchi</ingredient>
+  <ingredient amount="1" unit="half cup">Cucumber</ingredient>
+  <ingredient amount="2">Egg</ingredient>
+  <ingredient amount="2" unit="tablespoon">Vegetable Oil</ingredient>
+  <instructions>
+    <step>Dice cucumber into small pieces the size of a thumb nail.</step>
+    <step>Turn stop on medium heat and place oil.</step>
+    <step>Once pan is hot, place cucumbers and kimchi.</step>
+    <step>Once veggies are half cooked be being stirred, add in rice.</step>
+    <step>Stir all together until rice is soft.</step>
+    <step>Add in eggs while stirring everything together.</step>
+    <step>Eggs should be cooked until well mixed in with ingredients.</step>
+  </instructions>
+</recipe>
